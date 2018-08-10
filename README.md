@@ -1,5 +1,5 @@
 # JSONAnalysis
-Helps you summarising JSONL files.
+Helps you summarize JSONL data structure.
 
 ## Usage
 ```sh
